@@ -23,9 +23,11 @@ Refer to [this official link](https://www.docker.com/products/extensions/) to le
 Here's a place to suggest new ideas for Docker Extensions and get new ideas of what to build for the larger Docker community.
 
 
-## Featured Docker Extension( May 2025)
+## Featured Docker Extension( Jan 2026)
 
 
+- [Penpot Docker Extension](https://open.docker.com/extensions/marketplace?extensionId=ajeetraina777/penpot-docker-extension)
+- [SurrealDB Docker Extension](https://open.docker.com/extensions/marketplace?extensionId=raveendiranrr/surrealdb-docker-extension&tag=1.0.0)
 - [Remote Docker](https://open.docker.com/extensions/marketplace?extensionId=egekocabas/remote-docker)
 - [Krs Docker Extension](https://open.docker.com/extensions/marketplace?extensionId=kubetoolsca/krs-docker-extension)
 - [Kong Konnect](https://github.com/kong/konnect-docker-extension:1.0.4)
@@ -35,12 +37,7 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 - [Imagetools](https://hub.docker.com/extensions/dixtdf/image-tools)
 - [SignalOne](https://www.docker.com/blog/debug-containers-ai-signal0ne-docker-extension/)
 - [MindsDB](https://hub.docker.com/r/ajeetraina/mindsdb-docker-extension)
-- [Cloudsmith](https://hub.docker.com/extensions/cloudsmith/docker-desktop-extension)
-- [Checkmarx](https://hub.docker.com/extensions/checkmarx/imagex)
-- [Docker Labs K8s Toolkit](https://hub.docker.com/extensions/docker/labs-k8s-toolkit-extension)
-- [Jmeter](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
-- [JupyterLab](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
-- [Docker Labs Debug Tools](https://hub.docker.com/extensions/docker/labs-debug-tools-extension)
+
 
 
 
